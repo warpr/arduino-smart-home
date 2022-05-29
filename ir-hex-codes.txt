@@ -1,0 +1,40 @@
+Protocol=NEC Address=0x4 Command=0x3 Raw-Data=0xFC03FB04 32 bits LSB first
+
+lg vol down: FC03FB04
+lg vol up:   FD02FB04
+lg power:    F708FB04
+lg confirm:  BB44FB04
+lg left:     F807FB04
+lg up:       BF40FB04
+lg down:     BE41FB04
+lg right:    F906FB04
+lg back:     D728FB04
+lg 1:        EE11FB04
+lg 2:        ED12FB04
+lg 3:        EC13FB04
+lg 4:        EB14FB04
+lg 5:        EA15FB04
+lg 6:        E916FB04
+lg 7:        E817FB04
+lg 8:        E718FB04
+lg 9:        E619FB04
+lg 0:        EF10FB04
+lg list:     AC53FB04
+lg ch-:      FE01FB04
+lg ch+:      FF00FB04
+lg mute:     F609FB04
+lg home:     837CFB04
+lg guide:    54ABFB04
+lg red:      8D72FB04
+lg green:    8E71FB04
+lg yellow:   9C63FB04
+lg blue:     9E61FB04
+lg recents:  4AB5FB04
+lg input:    F40BFB04
+lg config:   BC43FB04
+lg text:     4FB0FB04
+lg t.opt:    45BAFB04
+
+
+
+
